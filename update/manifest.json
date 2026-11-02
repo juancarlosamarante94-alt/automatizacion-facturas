@@ -1,10 +1,10 @@
 {
-  "version": "5.2.5",
-  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.2.5.zip",
-  "sha256": "d697b4b562454af226d257064ec4a631678bc66961e7bc0b9ee03f312a9d2af3",
+  "version": "5.2.6",
+  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.2.6.zip",
+  "sha256": "d55f44067695c4557ee00b3b699c71e4d49a73c583af8e26593fea3fcf56cac2",
   "notes": [
-    "Conserva la lista de facturas pendientes al cerrar y volver a abrir.",
-    "Errores y búsquedas sin pago siguen pendientes; solo completa al guardar los PDF.",
-    "Guardado automático de facturas y botón Guardar pendientes."
+    "Localiza el importe de Retención por alineación con su encabezado, sin depender del número de columnas.",
+    "Pulsa el generador y espera hasta 120 segundos a que aparezca el PDF en otra ventana.",
+    "Conserva pendientes y no completa si falta el enlace de una retención con importe."
   ]
 }
