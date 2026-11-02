@@ -1,9 +1,10 @@
 {
-  "version": "5.2.4",
-  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.2.4.zip",
-  "sha256": "bbf79d373acd2bf9ff407196cc480afbd557ac49d877b54fc42cdbf29743ba62",
+  "version": "5.2.5",
+  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.2.5.zip",
+  "sha256": "d697b4b562454af226d257064ec4a631678bc66961e7bc0b9ee03f312a9d2af3",
   "notes": [
-    "Corrige el desplazamiento de columnas al seleccionar Retención.",
-    "Cuenta las celdas vacías y verifica la alineación antes de abrir el importe."
+    "Conserva la lista de facturas pendientes al cerrar y volver a abrir.",
+    "Errores y búsquedas sin pago siguen pendientes; solo completa al guardar los PDF.",
+    "Guardado automático de facturas y botón Guardar pendientes."
   ]
 }
