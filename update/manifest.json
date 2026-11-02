@@ -1,10 +1,10 @@
 {
-  "version": "5.3.2",
-  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.3.2.zip",
-  "sha256": "e48beb3dffc417976e73674eb0bb57b5a1e3a80925e5db96b61aa9e22629979e",
+  "version": "5.3.3",
+  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.3.3.zip",
+  "sha256": "28de6cbdf38c0e12e32d46b3ec6caffd0a62822b66e2f9fac086dceecf698d0a",
   "notes": [
-    "Muestra Completa y el nombre del PDF al pasar el mouse.",
-    "Conserva sesión y navegador entre lotes; Detener no cierra la sesión.",
-    "Botón Cerrar sesión y navegador y reingreso si el portal vence la sesión."
+    "Vuelve a localizar los campos y botones al pasar a otra factura del lote.",
+    "Reubica Importe bruto después de generar la retención.",
+    "Conserva la etapa y el error original en el diagnóstico."
   ]
 }
