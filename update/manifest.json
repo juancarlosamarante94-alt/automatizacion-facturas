@@ -1,10 +1,9 @@
 {
-  "version": "5.2.2",
-  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.2.2.zip",
-  "sha256": "8ba59c287fa6afdd55a137b304dcf82d28a32030c67856fde4b0b381b42abec7",
+  "version": "5.2.3",
+  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.2.3.zip",
+  "sha256": "3c6d12cb88f9386d07e4dcf5a1a66ddcd21b3407794c2779c50ba3674194130e",
   "notes": [
-    "Guarda usuario, CUIT y contraseña de pagos Rivadavia en el Administrador de credenciales de Windows.",
-    "Botón Guardar datos de ingreso y reutilización de contraseña sin mostrarla.",
-    "Espera de hasta 10 minutos para CAPTCHA manual y continuación tras el acceso."
+    "Espera y reintenta si la capa de carga del portal bloquea Ingresar.",
+    "Mantiene la espera por CAPTCHA manual y las credenciales guardadas."
   ]
 }
