@@ -1,10 +1,11 @@
 {
-  "version": "5.2.8",
-  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.2.8.zip",
-  "sha256": "cb9d73e5780475f4d1723d76a81245cdd545101ac570a485a1927a265f0cb67d",
+  "version": "5.3.0",
+  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.3.0.zip",
+  "sha256": "3496e56dd4b072d2dc521d2c46d94fa20f28e7d46eadf4d99b076ea23ad69655",
   "notes": [
-    "Evita volver al formulario tras el último cheque antes de generar el PDF.",
-    "Informa la descarga de retención y el guardado del PDF.",
-    "Registra detalle de errores y conserva facturas pendientes."
+    "Nuevo recorrido: cheque, retención y detalle desde Importe bruto.",
+    "Recortes de tablas en A4, filas completas y encabezados repetidos cuando continúa en otra hoja.",
+    "Agrega todas las facturas del pago y completa solo después de guardar el PDF.",
+    "Evita consultas duplicadas y conserva punto de retorno a V5.2.8."
   ]
 }
