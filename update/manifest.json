@@ -1,8 +1,9 @@
 {
-  "version": "5.1.1",
-  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.1.1.zip",
-  "sha256": "8f74fb28d01fb637e7c01a15a6b65160c8fe165c64e41da4984c099a0e1af3f5",
+  "version": "5.1.2",
+  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.1.2.zip",
+  "sha256": "29bfd7ba265ac9da6559f9f10e7aed143dd460bc26cf6b3dca63284dfefe5638",
   "notes": [
+    "Corrección de descarga para evitar la caché del paquete V5.1.1.",
     "Inicio gráfico sin ventana de terminal.",
     "Eliminación del cartel relacionado con la ventana de Python.",
     "Acceso directo actualizado automáticamente con el nuevo icono."
