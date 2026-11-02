@@ -1,11 +1,11 @@
 {
-  "version": "5.1.3",
-  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.1.3.zip",
-  "sha256": "cce14fbd5148bfd223d47d2145ed8e812e712f0dde71dc45990ade4181aafc0c",
+  "version": "5.2.0",
+  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.2.0.zip",
+  "sha256": "8f1f03678ccf2fa2c2d2e6c7810df61298e2435d6e09b22261ff60b91453aa74",
   "notes": [
-    "Paquete de actualización optimizado y verificado contra GitHub.",
-    "Inicio gráfico sin ventana de terminal.",
-    "Eliminación del cartel relacionado con la ventana de Python.",
-    "Acceso directo actualizado automáticamente con el nuevo icono."
+    "Nuevo módulo Comprobantes de pagos Rivadavia: lista de facturas y PDF combinado por cheque.",
+    "Destino predeterminado: Escritorio/pagos rivadavia.",
+    "Botón de retorno a V5.1.3, sin modificar los cargadores anteriores.",
+    "Primera versión: verificar con una factura real. Si hay resultados paginados o controles no reconocidos, se detiene y solicita revisión."
   ]
 }
