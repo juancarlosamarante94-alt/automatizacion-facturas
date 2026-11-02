@@ -1,7 +1,7 @@
 {
   "version": "5.1.1",
   "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.1.1.zip",
-  "sha256": "4e1c7120405a43f9f1d0777be83bf0f5a6cbbdb1f8488bfd34313b5de036c2ee",
+  "sha256": "8f74fb28d01fb637e7c01a15a6b65160c8fe165c64e41da4984c099a0e1af3f5",
   "notes": [
     "Inicio gráfico sin ventana de terminal.",
     "Eliminación del cartel relacionado con la ventana de Python.",
