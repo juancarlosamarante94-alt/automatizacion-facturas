@@ -1,11 +1,10 @@
 {
-  "version": "5.3.0",
-  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.3.0.zip",
-  "sha256": "3496e56dd4b072d2dc521d2c46d94fa20f28e7d46eadf4d99b076ea23ad69655",
+  "version": "5.3.1",
+  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.3.1.zip",
+  "sha256": "d89ec8f81196a25dddc81c130ce3fa585c34ca0043f681d46ab4a79613344987",
   "notes": [
-    "Nuevo recorrido: cheque, retención y detalle desde Importe bruto.",
-    "Recortes de tablas en A4, filas completas y encabezados repetidos cuando continúa en otra hoja.",
-    "Agrega todas las facturas del pago y completa solo después de guardar el PDF.",
-    "Evita consultas duplicadas y conserva punto de retorno a V5.2.8."
+    "Abre la consulta de pagos directamente en la sesión, sin depender del enlace lateral.",
+    "Evita el timeout al continuar con la siguiente factura.",
+    "Conserva pendientes, PDF completo y punto de retorno."
   ]
 }
