@@ -1,10 +1,11 @@
 {
-  "version": "5.4.2",
-  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.2.zip",
-  "sha256": "d5487fc198e555e5b80953214fcfcb98bbdd2953a04874ab7f7a0bf2f63c6ebd",
+  "version": "5.4.3",
+  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.3.zip",
+  "sha256": "17137896674dbc72ca3ac976865c9d3540632715211ef39e467a08971b2e1f80",
   "notes": [
-    "San Cristóbal: localización robusta del campo Número de Siniestro.",
-    "Confirma los 12 dígitos antes de habilitar y pulsar Validar.",
-    "Rivadavia y el módulo de pagos permanecen sin modificaciones."
+    "San Cristóbal: adjunta automáticamente la factura aunque React oculte el control.",
+    "Activa Subir archivo y vuelve a localizar el input si todavía no fue creado.",
+    "Confirma el nombre del PDF y espera Continuar antes de avanzar.",
+    "Rivadavia y Pagos permanecen sin modificaciones."
   ]
 }
