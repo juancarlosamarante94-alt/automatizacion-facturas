@@ -1,10 +1,10 @@
 {
-  "version": "5.4.1",
-  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.1.zip",
-  "sha256": "932c1ebd1af05120e406ddf4230ca9cfc664c11b90ff7cd1d5db24cd4bc49917",
+  "version": "5.4.2",
+  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.2.zip",
+  "sha256": "d5487fc198e555e5b80953214fcfcb98bbdd2953a04874ab7f7a0bf2f63c6ebd",
   "notes": [
-    "Espera la tabla real de cheques, no solo el título de la pantalla.",
-    "Reconoce encabezados con espacios, acentos y saltos de línea.",
-    "Conserva PDF previo, marcado individual e historial de pagos nuevos."
+    "San Cristóbal: localización robusta del campo Número de Siniestro.",
+    "Confirma los 12 dígitos antes de habilitar y pulsar Validar.",
+    "Rivadavia y el módulo de pagos permanecen sin modificaciones."
   ]
 }
