@@ -1,11 +1,11 @@
 {
-  "version": "5.4.3",
-  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.3.zip",
-  "sha256": "17137896674dbc72ca3ac976865c9d3540632715211ef39e467a08971b2e1f80",
+  "version": "5.4.4",
+  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.4.zip",
+  "sha256": "670d76f0da4c1767f73b970969aed8ddb4d7848fc1da3e5318a4e8ce3c6f297b",
   "notes": [
-    "San Cristóbal: adjunta automáticamente la factura aunque React oculte el control.",
-    "Activa Subir archivo y vuelve a localizar el input si todavía no fue creado.",
-    "Confirma el nombre del PDF y espera Continuar antes de avanzar.",
+    "San Cristóbal: pulsa siempre Subir archivo antes de seleccionar el PDF.",
+    "Carga el archivo mediante Chrome DevTools aunque el input esté oculto.",
+    "Verifica el PDF cargado y espera Continuar antes de avanzar.",
     "Rivadavia y Pagos permanecen sin modificaciones."
   ]
 }
