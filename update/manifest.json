@@ -1,12 +1,10 @@
 {
-  "version": "5.4.0",
-  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.0.zip",
-  "sha256": "0364a70f17e8ec9962cf7c18cfc2f8281f661f9638be68af830ad86e23f1aaa8",
+  "version": "5.4.1",
+  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.1.zip",
+  "sha256": "932c1ebd1af05120e406ddf4230ca9cfc664c11b90ff7cd1d5db24cd4bc49917",
   "notes": [
-    "Botón Pagos nuevos: procesa un cheque por vez desde Consulta de Cheques.",
-    "Guarda el PDF completo antes de marcar únicamente ese cheque como recibido.",
-    "Historial persistente con facturas, cheque, fecha, archivo y estado de marcado.",
-    "Reintenta el marcado sin descargar otra vez un respaldo ya guardado.",
-    "Punto de retorno a V5.3.4."
+    "Espera la tabla real de cheques, no solo el título de la pantalla.",
+    "Reconoce encabezados con espacios, acentos y saltos de línea.",
+    "Conserva PDF previo, marcado individual e historial de pagos nuevos."
   ]
 }
