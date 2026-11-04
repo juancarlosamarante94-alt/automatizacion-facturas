@@ -1,11 +1,11 @@
 {
-  "version": "5.4.12",
-  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.12.zip",
-  "sha256": "e8dc405feeb0d43ebd1dc288d51e21f0ee6463a0c811dc0a034fb81d71aec1cc",
+  "version": "5.4.13",
+  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.13.zip",
+  "sha256": "ee89b8c15328ba621bfbf0fb0dfaefb2a44f3f7e1fe53f0b26b8fe903a96a7ba",
   "notes": [
-    "San Cristóbal: cierra el calendario después de confirmar la fecha.",
-    "Usa los identificadores reales para punto de venta, comprobante, CAE, cantidad y precio.",
-    "Usa los identificadores reales para los desplegables y mantiene errores en el Escritorio.",
+    "San Cristóbal: valida el IVA usando el importe calculado del formulario.",
+    "Evita confundir la alícuota 21% del visor PDF con el importe de IVA.",
+    "Mantiene el guardado de diagnósticos en el Escritorio.",
     "Rivadavia y Pagos permanecen sin modificaciones."
   ]
 }
