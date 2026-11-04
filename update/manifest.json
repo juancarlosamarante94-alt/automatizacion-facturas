@@ -1,11 +1,11 @@
 {
-  "version": "5.4.5",
-  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.5.zip",
-  "sha256": "ec51290050d2e9ddb7ba362951135906c8fc7918bad3bb890f9fdbd80eade3ab",
+  "version": "5.4.6",
+  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.6.zip",
+  "sha256": "2d51d9149c9855c63058de08c56a39964e5a7db6a3406ed546fac771de2d0995",
   "notes": [
-    "San Cristóbal: completa automáticamente la ventana nativa de Windows al adjuntar.",
-    "Escribe la ruta exacta del PDF y pulsa Abrir.",
-    "Espera la confirmación de la plataforma antes de continuar.",
+    "San Cristóbal: selecciona la fecha mediante el calendario del portal.",
+    "Conserva el CAE escaneado y solo lo completa si el campo está vacío.",
+    "Valida comprobante, letra, moneda, provincia, rubro, neto e IVA.",
     "Rivadavia y Pagos permanecen sin modificaciones."
   ]
 }
