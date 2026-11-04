@@ -1,11 +1,11 @@
 {
-  "version": "5.4.6",
-  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.6.zip",
-  "sha256": "2d51d9149c9855c63058de08c56a39964e5a7db6a3406ed546fac771de2d0995",
+  "version": "5.4.7",
+  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.7.zip",
+  "sha256": "585af80aad5c115e18c7ddac1b4ada685da90706c0a238054ef6159a00b64558",
   "notes": [
-    "San Cristóbal: selecciona la fecha mediante el calendario del portal.",
-    "Conserva el CAE escaneado y solo lo completa si el campo está vacío.",
-    "Valida comprobante, letra, moneda, provincia, rubro, neto e IVA.",
+    "San Cristóbal: pulsa el botón real del día dentro del calendario.",
+    "Limita la búsqueda de la fecha exclusivamente a la grilla del calendario.",
+    "Informa cuándo la fecha fue confirmada antes de completar el comprobante.",
     "Rivadavia y Pagos permanecen sin modificaciones."
   ]
 }
