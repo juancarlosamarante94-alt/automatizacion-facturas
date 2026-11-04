@@ -1,11 +1,11 @@
 {
-  "version": "5.4.7",
-  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.7.zip",
-  "sha256": "585af80aad5c115e18c7ddac1b4ada685da90706c0a238054ef6159a00b64558",
+  "version": "5.4.8",
+  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.8.zip",
+  "sha256": "a0f4ffb335ed35373227708f427f3097b0f2d6d969a158db65ba07c0befea00c",
   "notes": [
-    "San Cristóbal: pulsa el botón real del día dentro del calendario.",
-    "Limita la búsqueda de la fecha exclusivamente a la grilla del calendario.",
-    "Informa cuándo la fecha fue confirmada antes de completar el comprobante.",
+    "San Cristóbal: pulsa las flechas por su posición visible en la barra del calendario.",
+    "Navega mes a mes hasta la fecha de la factura.",
+    "Pulsa el centro del día correspondiente y confirma el valor cargado.",
     "Rivadavia y Pagos permanecen sin modificaciones."
   ]
 }
