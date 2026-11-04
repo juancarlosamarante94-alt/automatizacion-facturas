@@ -1,11 +1,10 @@
 {
-  "version": "5.4.13",
-  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.13.zip",
-  "sha256": "ee89b8c15328ba621bfbf0fb0dfaefb2a44f3f7e1fe53f0b26b8fe903a96a7ba",
+  "version": "5.4.14",
+  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.14.zip",
+  "sha256": "aeb895c62bfb0087f6eebcd554604221ef6453a0bbc9c8b6f7a3454467a87ef7",
   "notes": [
-    "San Cristóbal: valida el IVA usando el importe calculado del formulario.",
-    "Evita confundir la alícuota 21% del visor PDF con el importe de IVA.",
-    "Mantiene el guardado de diagnósticos en el Escritorio.",
+    "San Cristóbal: confirma el PDF dentro del bloque exacto Documentación Respaldatoria.",
+    "Pulsa Continuar desde el formulario de Datos Adicionales sin depender de textos globales del visor.",
     "Rivadavia y Pagos permanecen sin modificaciones."
   ]
 }
