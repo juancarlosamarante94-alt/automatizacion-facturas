@@ -1,11 +1,11 @@
 {
-  "version": "5.4.10",
-  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.10.zip",
-  "sha256": "2c02496bb4eac0bc56c4a0b05c6dd9f4cf40d15f46dfb8c631d0b9e3f7bd3bbc",
+  "version": "5.4.11",
+  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.11.zip",
+  "sha256": "e6b33ae32be79f5fa0e4efe473f37adf99d1012259a81abd4d407148c0baf797",
   "notes": [
-    "San Cristóbal: usa los selectores reales button.previous y button.next.",
-    "Lee mes y año desde los controles button.current.",
-    "Pulsa directamente el span activo del día y excluye los días de otros meses.",
+    "San Cristóbal: guarda todos los diagnósticos en el Escritorio.",
+    "La carpeta utilizada es C:\\Users\\Usuario\\Desktop\\ERRORES_CARGADOR.",
+    "Mantiene captura, descripción, JSON del calendario y HTML de la página.",
     "Rivadavia y Pagos permanecen sin modificaciones."
   ]
 }
