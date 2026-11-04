@@ -1,11 +1,11 @@
 {
-  "version": "5.4.8",
-  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.8.zip",
-  "sha256": "a0f4ffb335ed35373227708f427f3097b0f2d6d969a158db65ba07c0befea00c",
+  "version": "5.4.9",
+  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.9.zip",
+  "sha256": "12fe661634c97372d61bbaa443b0432a2e93a3a25603fd2f703fd18b559a6a73",
   "notes": [
-    "San Cristóbal: pulsa las flechas por su posición visible en la barra del calendario.",
-    "Navega mes a mes hasta la fecha de la factura.",
-    "Pulsa el centro del día correspondiente y confirma el valor cargado.",
+    "San Cristóbal: genera un diagnóstico automático del calendario cuando ocurre un error.",
+    "Guarda los controles, atributos y posiciones en un archivo JSON.",
+    "Guarda también el HTML completo para obtener selectores exactos.",
     "Rivadavia y Pagos permanecen sin modificaciones."
   ]
 }
