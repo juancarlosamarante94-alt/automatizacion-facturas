@@ -1,10 +1,10 @@
 {
-  "version": "5.4.17",
-  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.17.zip",
-  "sha256": "9d45f9cc338fdfb2769c4d1fbdeeecd41a1bc556117d77f034aee11391453b3c",
+  "version": "5.4.18",
+  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.18.zip",
+  "sha256": "9043196c0311c9fa01d830eb8438caa46ca75f4bc34cfaec2b69ef84cf3bcaf2",
   "notes": [
-    "Pagos Rivadavia: espera de forma estable la pantalla de cheques o el inicio de sesion.",
-    "Reintenta si el portal reemplaza el campo de contrasena durante la carga.",
+    "Pagos Rivadavia: vuelve a localizar cada fila y no conserva elementos obsoletos de la tabla.",
+    "El detalle de un cheque con varios pagos se captura como una sola tabla completa.",
     "Rivadavia Facturas y San Cristobal permanecen sin modificaciones."
   ]
 }
