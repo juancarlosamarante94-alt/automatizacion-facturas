@@ -1,10 +1,10 @@
 {
-  "version": "5.4.16",
-  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.16.zip",
-  "sha256": "ba766accdd577bcf3f2682b3f1b021899934f7213ec3986bba9c09fdc151bd9b",
+  "version": "5.4.17",
+  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.17.zip",
+  "sha256": "9d45f9cc338fdfb2769c4d1fbdeeecd41a1bc556117d77f034aee11391453b3c",
   "notes": [
-    "Repara la codificacion UTF-8 de Pagos Rivadavia que impedia iniciar la V5.4.15.",
-    "Mantiene el reintento seguro cuando el portal renueva la tabla de cheques.",
+    "Pagos Rivadavia: espera de forma estable la pantalla de cheques o el inicio de sesion.",
+    "Reintenta si el portal reemplaza el campo de contrasena durante la carga.",
     "Rivadavia Facturas y San Cristobal permanecen sin modificaciones."
   ]
 }
