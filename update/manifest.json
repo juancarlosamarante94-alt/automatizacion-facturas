@@ -1,10 +1,10 @@
 {
-  "version": "5.4.21",
-  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.21.zip",
-  "sha256": "2b316955615892c22a16a8f9a7a89ae3a6e479a3a1f00a6e90c59e57dd32a9cf",
+  "version": "5.4.22",
+  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.22.zip",
+  "sha256": "3d64dd7249b56bedf9fba3510d486187f023113286e796ba9820f034ba34a54e",
   "notes": [
-    "Restaura la captura del detalle factura por factura para incluir todas las facturas del cheque.",
-    "El cheque seleccionado aparece arriba y el detalle comienza en la misma hoja cuando hay espacio, repitiendo el encabezado en las hojas siguientes.",
-    "Conserva Eliminar y rehacer; Rivadavia Facturas y San Cristobal no se modifican."
+    "Agrega Eliminar pago y rehacer en cada factura que figura completa.",
+    "Muestra todos los pagos guardados en el historial y permite eliminar uno o eliminar todo; los PDF anteriores se conservan.",
+    "Mantiene la captura completa factura por factura de V5.4.21; Rivadavia Facturas y San Cristobal no se modifican."
   ]
 }
