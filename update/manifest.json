@@ -1,10 +1,10 @@
 {
-  "version": "5.4.19",
-  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.19.zip",
-  "sha256": "608a2ac2d95824ed66a264246ebf328202ce8e4d65e774473feeb85612049193",
+  "version": "5.4.20",
+  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.20.zip",
+  "sha256": "ff66948f857b9ba36ccd94878457c5599a40d5658802a8b2adc51f659d92834a",
   "notes": [
-    "La pantalla principal lee la version instalada desde version.txt y deja de mostrar V5.4.14 fija.",
-    "Incluye la lectura estable de Pagos Rivadavia y la captura completa de detalles con varios pagos.",
+    "Agrega el boton Eliminar y rehacer en el historial de Pagos Rivadavia.",
+    "Al eliminar un pago, sus facturas vuelven a quedar pendientes para buscarlas otra vez y el PDF anterior se conserva.",
     "Rivadavia Facturas y San Cristobal permanecen sin modificaciones."
   ]
 }
