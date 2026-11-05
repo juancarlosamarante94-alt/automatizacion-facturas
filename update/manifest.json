@@ -1,10 +1,10 @@
 {
-  "version": "5.4.14",
-  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.14.zip",
-  "sha256": "aeb895c62bfb0087f6eebcd554604221ef6453a0bbc9c8b6f7a3454467a87ef7",
+  "version": "5.4.15",
+  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.15.zip",
+  "sha256": "8b6c7e1764a9ad3f6934b446b46ead5dc5efc167c0b4d503f8a62d468a3a5ea9",
   "notes": [
-    "San Cristóbal: confirma el PDF dentro del bloque exacto Documentación Respaldatoria.",
-    "Pulsa Continuar desde el formulario de Datos Adicionales sin depender de textos globales del visor.",
-    "Rivadavia y Pagos permanecen sin modificaciones."
+    "Pagos Rivadavia: vuelve a localizar la tabla si el portal renueva sus filas durante la lectura.",
+    "Evita el error StaleElementReferenceException sin repetir descargas ni marcar cheques.",
+    "Rivadavia Facturas y San Cristóbal permanecen sin modificaciones."
   ]
 }
