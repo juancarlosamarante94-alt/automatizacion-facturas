@@ -1,10 +1,10 @@
 {
-  "version": "5.4.20",
-  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.20.zip",
-  "sha256": "ff66948f857b9ba36ccd94878457c5599a40d5658802a8b2adc51f659d92834a",
+  "version": "5.4.21",
+  "url": "https://raw.githubusercontent.com/juancarlosamarante94-alt/automatizacion-facturas/main/update/app_5.4.21.zip",
+  "sha256": "2b316955615892c22a16a8f9a7a89ae3a6e479a3a1f00a6e90c59e57dd32a9cf",
   "notes": [
-    "Agrega el boton Eliminar y rehacer en el historial de Pagos Rivadavia.",
-    "Al eliminar un pago, sus facturas vuelven a quedar pendientes para buscarlas otra vez y el PDF anterior se conserva.",
-    "Rivadavia Facturas y San Cristobal permanecen sin modificaciones."
+    "Restaura la captura del detalle factura por factura para incluir todas las facturas del cheque.",
+    "El cheque seleccionado aparece arriba y el detalle comienza en la misma hoja cuando hay espacio, repitiendo el encabezado en las hojas siguientes.",
+    "Conserva Eliminar y rehacer; Rivadavia Facturas y San Cristobal no se modifican."
   ]
 }
